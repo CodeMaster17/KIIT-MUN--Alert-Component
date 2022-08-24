@@ -1,0 +1,100 @@
+
+
+@media only screen and (max-width: 1024px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 75vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 81%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
+@media only screen and (max-width: 810px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 75vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 81%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 75vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 79%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 75vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 80%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
+@media only screen and (max-width: 601px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 75vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 82%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
+@media only screen and (max-width: 428px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 74vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 79%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
+@media only screen and (max-width: 390px) {
+    /* for sumo sized (mac) screens */
+    .alert{
+        width : 74vw;
+        height: 94vw;
+    }
+    .closebtn{
+        left : 79%;
+    }
+    .background img{
+        width : 89%;
+        height : 100%;
+    }
+}
